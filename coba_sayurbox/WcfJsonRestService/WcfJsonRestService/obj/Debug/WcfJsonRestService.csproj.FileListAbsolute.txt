@@ -1,0 +1,6 @@
+C:\Users\Michael\Desktop\coba_sayurbox\WcfJsonRestService\WcfJsonRestService\bin\Debug\WcfJsonRestService.dll.config
+C:\Users\Michael\Desktop\coba_sayurbox\WcfJsonRestService\WcfJsonRestService\bin\Debug\WcfJsonRestService.dll
+C:\Users\Michael\Desktop\coba_sayurbox\WcfJsonRestService\WcfJsonRestService\bin\Debug\WcfJsonRestService.pdb
+C:\Users\Michael\Desktop\coba_sayurbox\WcfJsonRestService\WcfJsonRestService\obj\Debug\WcfJsonRestService.dll
+C:\Users\Michael\Desktop\coba_sayurbox\WcfJsonRestService\WcfJsonRestService\obj\Debug\WcfJsonRestService.pdb
+C:\Users\Michael\Desktop\coba_sayurbox\WcfJsonRestService\WcfJsonRestService\obj\Debug\WcfJsonRestService.csprojResolveAssemblyReference.cache
